@@ -4,8 +4,8 @@ This is a simple web application built using Flask.
 
 ## Features
 
-- Basic flask setup
-- Html rendering
+- User input form
+- Dynamic message display
 
 ## Technologies Used
 
